@@ -35,9 +35,6 @@ React with: React Router, Redux
 
    ⚡ [https://github.com/hannakozak/would-you](https://github.com/hannakozak/would-you)
    
-   ![Text](https://github.com/hannakozak/hk/blob/master/would-you.png)
-   
-
       Would You Rather is a polling game that presents the user with a series of questions that can be answered one of two ways. 
       It's built with React, Redux, React Router, & Redux Thunk.
 
