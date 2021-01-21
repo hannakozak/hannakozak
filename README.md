@@ -1,16 +1,51 @@
 ### Hi there 👋
 
-<!--
-**hannakozak/hannakozak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I am looking for my first job in IT. I am focusing on Front End Development and completed several courses including the React Nanodegree program from Udacity.
 
-Here are some ideas to get you started:
+## Contact
+email: hannawkozak@gmail.com
+LinkedIn: https://www.linkedin.com/in/hannawkozak/
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Technologies
+HTML
+CSS
+JavaScript
+React with: React Router, Redux
+
+## My projects
+
+### Full Stack open 202
+
+    I am currently learning with Full Stack open 2020 - Deep Dive Into Modern Web Development. The main focus is on building single page applications with ReactJS that use REST APIs built with Node.js. The course also contains a section on GraphQL, a modern alternative to REST APIs.
+
+     🔭 https://github.com/hannakozak/fullstackopen
+
+### Portfolio
+  
+     ⚡ https://hannakozak.github.io/hk/
+     
+### would-you
+
+     ⚡ https://github.com/hannakozak/would-you
+
+      Would You Rather is a polling game that presents the user with a series of questions that can be answered one of two ways. It's built with React, Redux, React Router, & Redux Thunk.
+
+### myreads - A Book Tracking App
+     
+     ⚡ https://github.com/hannakozak/myreads
+     
+     MyReads App allows users to search from a catalog of books and save choices to various books shelves. It's built with React & React Router
+     
+ ### Calculator
+ 
+     ⚡ https://github.com/hannakozak/calculator
+     
+     Simple calculator made with React, when working on Front End Libraries Projects for freeCodeCamp.
+     
+ ### Hangman Game
+ 
+     ⚡  https://github.com/hannakozak/hangman
+
+      The online version of popular guessing game. You have to try to guess phrase by suggesting letters within a certain number of guesse.
+
+
