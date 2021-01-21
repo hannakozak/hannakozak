@@ -4,6 +4,7 @@
 
 ## Contact
 email: hannawkozak@gmail.com
+
 LinkedIn: https://www.linkedin.com/in/hannawkozak/
 
 ## Technologies
