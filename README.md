@@ -7,7 +7,7 @@ email: hannawkozak@gmail.com
 
 LinkedIn: [https://www.linkedin.com/in/hannawkozak/](https://www.linkedin.com/in/hannawkozak/)
 
-#### Technologies
+### Technologies
 
 HTML
 
@@ -17,7 +17,7 @@ JavaScript
 
 React with: React Router, Redux
 
-#### My projects
+### My projects
 
 #### Full Stack open 202
 
@@ -38,7 +38,7 @@ React with: React Router, Redux
       Would You Rather is a polling game that presents the user with a series of questions that can be answered one of two ways. 
       It's built with React, Redux, React Router, & Redux Thunk.
 
-#### myreads - A Book Tracking App
+#### A Book Tracking App
      
      ⚡ [https://github.com/hannakozak/myreads](https://github.com/hannakozak/myreads)
      
