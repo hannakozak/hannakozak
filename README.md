@@ -19,7 +19,7 @@ React with: React Router, Redux
 
 ### My projects
 
-#### Full Stack open 202
+#### Full Stack open 2020
 
     I am currently learning with Full Stack open 2020 - Deep Dive Into Modern Web Development. 
     The main focus is on building single page applications with ReactJS that use REST APIs built with Node.js. 
