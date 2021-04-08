@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-### I am looking for my first job in IT. I am focusing on Front End Development and completed several courses including the React Nanodegree program from Udacity.
+### I am looking for my first job in IT. I am focusing on Front End Development and React.
 
 #### Contact
 email: hannawkozak@gmail.com
@@ -18,14 +18,6 @@ JavaScript
 React with: React Router, Redux
 
 ### My projects
-
-#### Full Stack open 2020
-
-    I am currently learning with Full Stack open 2020 - Deep Dive Into Modern Web Development. 
-    The main focus is on building single page applications with ReactJS that use REST APIs built with Node.js. 
-    The course also contains a section on GraphQL, a modern alternative to REST APIs.
-
-   🔭 [https://github.com/hannakozak/fullstackopen](https://github.com/hannakozak/fullstackopen)
 
 #### Portfolio
   
