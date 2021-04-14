@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-### I am looking for my first job in IT. I am focusing on Front End Development and React.
+### I am a newbe FrontEnd Developer, looking for a job or project to develop my skills.
 
 #### Contact
 email: hannawkozak@gmail.com
