@@ -23,13 +23,14 @@ React with: React Router, Redux
   
    ⚡ [https://github.com/hannakozak/photo-search-app](https://github.com/hannakozak/photo-search-app)
       
-      Photo search application build with Unspash Api, React, Styled Components.
+      Photo search application build with Unspash Api, React, React-Router, React Hooks, Styled Components.
       
 #### Easybank
   
    ⚡ [https://github.com/hannakozak/easybank](https://github.com/hannakozak/easybank)
       
-      Easybank landing page. Frontend Mentor challenge to build the landing page and get it looking as close to the design as possible. 
+      Easybank landing page. 
+      Frontend Mentor challenge to build the landing page and get it looking as close to the design as possible. 
      
 #### Would-you Rather Game
 
