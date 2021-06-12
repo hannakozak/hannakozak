@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-### I am a newbe FrontEnd Developer, looking for a job or project to develop my skills.
+### I am a newbie Front End Developer, looking for a job or project to develop my skills.
 
 #### Contact
 email: hannawkozak@gmail.com
