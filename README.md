@@ -19,6 +19,12 @@ React with: React Router, Redux
 
 ### My projects
 
+#### Contacts
+  
+   ⚡ [https://github.com/hannakozak/contacts](https://github.com/hannakozak/contacts)
+      
+      Contacts application - React MERN Stack CRUD App.
+
 #### Photo-search-app
   
    ⚡ [https://github.com/hannakozak/photo-search-app](https://github.com/hannakozak/photo-search-app)
@@ -46,17 +52,3 @@ React with: React Router, Redux
      MyReads App allows users to search from a catalog of books and save choices to various books shelves. 
      It's built with React & React Router
      
- #### Calculator
- 
-   ⚡ [https://github.com/hannakozak/calculator](https://github.com/hannakozak/calculator)
-     
-     Simple calculator made with React, when working on Front End Libraries Projects for freeCodeCamp.
-     
- #### Hangman Game
- 
-   ⚡ [https://github.com/hannakozak/hangman](https://github.com/hannakozak/calculator)
-
-      The online version of popular guessing game. 
-      You have to try to guess phrase by suggesting letters within a certain number of guesse.
-
-
