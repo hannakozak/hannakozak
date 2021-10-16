@@ -37,18 +37,5 @@ React with: React Router, Redux
       
       Easybank landing page. 
       Frontend Mentor challenge to build the landing page and get it looking as close to the design as possible. 
-     
-#### Would-you Rather Game
 
-   ⚡ [https://github.com/hannakozak/would-you](https://github.com/hannakozak/would-you)
-   
-      Would You Rather is a polling game that presents the user with a series of questions that can be answered one of two ways. 
-      It's built with React, Redux, React Router, & Redux Thunk.
 
-#### A Book Tracking App
-     
-   ⚡ [https://github.com/hannakozak/myreads](https://github.com/hannakozak/myreads)
-     
-     MyReads App allows users to search from a catalog of books and save choices to various books shelves. 
-     It's built with React & React Router
-     
