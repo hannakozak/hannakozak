@@ -20,15 +20,14 @@ React with: React Router, Redux
 ### My projects
 
 #### Food-order-app
+  A food order application built with React, the Firebase Realtime Database, React Hooks, React Rooter and Styled Component/
 
-## Code
+##### Code
    ⚡ [https://github.com/hannakozak/food-order-app](https://github.com/hannakozak/food-order-app)
-## Demo
-  
+##### Demo
    ⚡ [https://hannakozak.github.io/food-order-app/](https://hannakozak.github.io/food-order-app/)
       
-   A food order application built with React, the Firebase Realtime Database, React Hooks, React Rooter and Styled Component/
-
+ 
 #### Photo-search-app
   
    ⚡ [https://github.com/hannakozak/photo-search-app](https://github.com/hannakozak/photo-search-app)
