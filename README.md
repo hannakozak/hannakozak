@@ -19,11 +19,15 @@ React with: React Router, Redux
 
 ### My projects
 
-#### Contacts
+#### Food-order-app
+
+## Code
+   ⚡ [https://github.com/hannakozak/food-order-app](https://github.com/hannakozak/food-order-app)
+## Demo
   
-   ⚡ [https://github.com/hannakozak/contacts](https://github.com/hannakozak/contacts)
+   ⚡ [https://hannakozak.github.io/food-order-app/](https://hannakozak.github.io/food-order-app/)
       
-      Contacts application - React MERN Stack CRUD App.
+   A food order application built with React, the Firebase Realtime Database, React Hooks, React Rooter and Styled Component/
 
 #### Photo-search-app
   
