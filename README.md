@@ -22,7 +22,7 @@ React with: React Router, Redux
 #### Food-order-app
   A food order application built with React, the Firebase Realtime Database, React Hooks, React Rooter and Styled Component/
 
-    ##### Code⚡ [https://github.com/hannakozak/food-order-app](https://github.com/hannakozak/food-order-app) ##### Demo⚡ [https://hannakozak.github.io/food-order-app/](https://hannakozak.github.io/food-order-app/)
+   ##### Code⚡ [https://github.com/hannakozak/food-order-app](https://github.com/hannakozak/food-order-app) ##### Demo⚡ [https://hannakozak.github.io/food-order-app/](https://hannakozak.github.io/food-order-app/)
       
  
 #### Photo-search-app
