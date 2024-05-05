@@ -5,9 +5,8 @@
 
 ### 👩‍💻 About Me
 
-- I am an aspiring Front End Developer from Edinburgh
-- I enjoy solving problems and always open to learn new tools and technologies
 - I am looking for new opportunities
+- I enjoy solving problems and always open to learn new tools and technologies
 - How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LINKEDIN-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/hannawkozak/)
 
 ---
