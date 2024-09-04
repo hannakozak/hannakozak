@@ -6,7 +6,6 @@
 ### 👩‍💻 About Me
 
 - I enjoy solving problems and always open to learn new tools and technologies
-- I am looking for new opportunities
 - How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LINKEDIN-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/hannawkozak/)
 
 ---
