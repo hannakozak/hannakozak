@@ -1,11 +1,10 @@
 <div align="center">
 <img src='https://media.giphy.com/media/hpXdHPfFI5wTABdDx9/giphy.gif', width='300'>
-<h1> Hey There!</h1>
+<h2> Hi, I'm Hanna</h2>
 </div>
 
 ### 👩‍💻 About Me
 
-- I am an aspiring Front End Developer from Edinburgh
 - I enjoy solving problems and always open to learn new tools and technologies
 - I am looking for new opportunities
 - How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LINKEDIN-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/hannawkozak/)
