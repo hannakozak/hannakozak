@@ -1,6 +1,6 @@
-### Hanna Kozak
+## Hanna Kozak
 
-### Fullstack Developer
+## Fullstack Developer
 
 ### About Me
 
