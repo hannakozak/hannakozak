@@ -9,6 +9,7 @@
 - I’m currently open to full-stack developer roles in Edinburgh or remote.
 
 - How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LINKEDIN-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/hannawkozak/)
+- [![Credly](https://img.shields.io/badge/Credly-View_My_Certifications-orange?logo=credly)](https://www.credly.com/users/hanna-kozak/badges/credly)
 
 ---
 
@@ -23,5 +24,6 @@
 - Databases & Services: PostgreSQL, Supabase, MongoDB
 <div></div>
 </div>
+<div></div>
 
 </div>
